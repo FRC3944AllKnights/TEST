@@ -1,7 +1,4 @@
 Roses are red,
 Violets are blue,
-purple
-hello
-people
-hello
-trying again
+I can make changes,
+and so can you!
