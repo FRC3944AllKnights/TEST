@@ -6,5 +6,6 @@ people
 hello
 trying again
 hello
-yes you can
-I'm making a change!
+
+New poem changes
+hello this is spencer making his current change
