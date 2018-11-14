@@ -21,4 +21,4 @@ Fetch - fetching gathers all of the changes made in the remote repository, and s
 
 Merge - merging takes changes fetched from the remote repository and applies them to the local repository.
 
-Pull - A combination of the fetch and merge commands. Pulling is generally the best way to update a local repository to be in sync with remote.
+Pull - A combination of the fetch and merge commands. Pulling is the easiest way to update a local repository to be in sync with remote.
